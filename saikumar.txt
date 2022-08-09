@@ -1,8 +1,18 @@
+
 Hi! this is saikumar.
 List of programming languages:
    1.java
    2.python
    3.c++
    4.c
+ Intrepreter languages:
+   1.python
+ compiler langages:
+   1.java
+   2.c++
+   3.c
+   
+
+
   
 
