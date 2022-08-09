@@ -1,5 +1,7 @@
-WELCOME!  I am saikumar. I am better than you think. 
-I want to learn python first.
-And then I want to learn java
-And finally I will go for c++
-Done my changes
+Intrepreter languages:
+   1.python
+ compiler langages:
+   1.java
+   2.c++
+   3.c
+   
