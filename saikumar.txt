@@ -12,6 +12,9 @@ List of programming languages:
    2.c++
    3.c
    
+   
+   Java and Python and c++ are object oriented programming languages whereas c is a structured oriented. 
+   
 
 
   
