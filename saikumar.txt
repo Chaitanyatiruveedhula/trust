@@ -1,9 +1,8 @@
-WELCOME!  I am saikumar. I am better than you think. 
-I want to learn python first.
-And then I want to learn java
-
-final copy done..
-
-And finally I will go for c++
-Done my changes
+Hi! this is saikumar.
+List of programming languages:
+   1.java
+   2.python
+   3.c++
+   4.c
+  
 
